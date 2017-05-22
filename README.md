@@ -38,7 +38,7 @@ Options:$
 
 ## Authors
 
-* **Quentin Sonnefraud** -*Parsing Tetrimos, falling tetriminos and all parsing* - [Vatoth](https://github.com/Vatoth)
+* **Quentin Sonnefraud** -*Parsing Tetrimos, falling tetriminos and all parsing* - [Quentin Sonnefraud](https://github.com/Vatoth)
 * **Lothaire Noah** -*Ncurses Interface and Assignement Shorcuts for any terminal* -
 
 Made with love at Epitech Paris in 2017
