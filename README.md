@@ -1,5 +1,4 @@
 # PSU_2016_Tetris
-# PSU_2016_navy
 
 The goal of this project was to recreate the Tetris game in a UNIX terminal, with the Gameboy version rules
 
